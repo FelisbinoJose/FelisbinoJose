@@ -1,24 +1,68 @@
+# 👋 Olá, eu sou José Luiz  
 
-### Olá! Eu sou o José Luiz 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=24&center=false&vCenter=true&width=600&lines=Desenvolvedor+Web;Estudante+de+Sistemas+de+Informação;Java+%7C+Spring+Boot+%7C+JavaScript;Em+busca+de+oportunidades+na+área+de+desenvolvimento" />
+</p>
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseluizfelisbino/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-luiz-felisbino-41aa8a357/)
+---
 
+## 👨‍💻 Sobre mim  
 
-![FelisbinoJose GitHub stats](https://github-readme-stats.vercel.app/api?username=FelisbinoJose&show_icons=true&theme=radical)
+📍 Orleans - SC, Brasil | 🎂 22 anos  
 
-### Tecnologias que eu uso no meu dia
+Sou estudante de **Bacharelado em Sistemas de Informação no Centro Universitário Barriga Verde (UNIBAVE)**, com previsão de conclusão em dezembro de 2026.  
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-E53935?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-007ACC?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
+Combino conhecimentos técnicos com uma abordagem voltada para **resolução de problemas e desenvolvimento de soluções eficientes**.  
 
-Atuo como desenvolvedor backend sempre buscando contribuir de forma prestativa e dedicada. Sou movido por desafios, aprendizado constante e trabalho em equipe.
+🎯 Busco atuar na área de **Desenvolvimento Web**, evoluindo constantemente e contribuindo com soluções tecnológicas que gerem valor e inovação.
 
+---
 
+## 🛠️ Competências Técnicas  
 
+### 💻 Linguagens e Tecnologias  
+- ☕ Java  
+- 🌱 Spring Boot  
+- 🟨 JavaScript  
+- 🌐 HTML5  
+- 🎨 CSS3  
+- 🤖 Inteligência Artificial  
+
+### 🔧 Ferramentas  
+- 🗂️ Git  
+- 🐙 GitHub  
+
+---
+
+## 🚀 Projeto em Destaque  
+
+### 🏥 Projeto Farmácia  
+🔗 https://github.com/FelisbinoJose/Projeto_Farmacia  
+
+📌 Plataforma web desenvolvida para controle e gerenciamento de farmácia, com foco em organização de produtos, estruturação de dados e apoio à gestão.
+
+---
+
+## 🌐 Portfólio  
+
+🚧 Em desenvolvimento  
+
+---
+
+## 📊 Estatísticas  
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelisbinoJose&show_icons=true&hide_title=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelisbinoJose&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato  
+
+📧 joseluizfelisbino202@gmail.com  
+💼 https://www.linkedin.com/in/jos%C3%A9-luiz-felisbino-41aa8a357/  
+
+---
+
+> 💡 *"O aprendizado contínuo é o que transforma conhecimento em inovação."*
