@@ -41,6 +41,11 @@ Combino conhecimentos técnicos com uma abordagem voltada para **resolução de 
 
 📌 Plataforma web desenvolvida para controle e gerenciamento de farmácia, com foco em organização de produtos, estruturação de dados e apoio à gestão.
 
+### [Jogo do número secreto](https://FelisbinoJose.github.io/Curso-de-Logica-de-programa-o-mergulhe-em-programa-o-com-JavaScript)
+
+📌 Jogo através do navegador para adivinhar um número de 1 a 100.
+
+
 ---
 
 ## 🌐 Portfólio  
